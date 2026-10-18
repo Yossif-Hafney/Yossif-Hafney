@@ -25,7 +25,7 @@ I'm a Computer and Systems Engineering student with hands-on experience developi
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & Databases
+### Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -43,16 +43,16 @@ I'm a Computer and Systems Engineering student with hands-on experience developi
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
+
+###  [WFDP](https://wfdp-igo.org)
+A Nuxt.js project demonstrating frontend development.
 
 ### 🌐 [My Portfolio](https://github.com/Yossif-Hafney/My_Portfolio_V1)
 Personal portfolio built with React, TypeScript, Vite, and TanStack Router.
 
 ### 🎨 [Just-UI](https://github.com/Yossif-Hafney/Just-UI)
 A frontend interface project focused on UI implementation.
-
-### 🍕 [My Pizza Project](https://github.com/Yossif-Hafney/my-pizza-project)
-A JavaScript project demonstrating practical frontend development.
 
 ### ₿ [Crypto Gateway](https://github.com/Yossif-Hafney/crypto-gateway)
 A project exploring cryptocurrency payment workflows.
